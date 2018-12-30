@@ -15,6 +15,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class ValidateUsernameServlet
  */
+/* user name */
 @WebServlet("/validateserv")
 public class ValidateUsernameServlet extends HttpServlet {
 	
